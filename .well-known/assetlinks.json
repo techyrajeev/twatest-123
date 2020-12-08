@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.web.twatest_123.twa",
+    "sha256_cert_fingerprints":
+    ["1E:56:D4:18:AA:B6:50:1D:C9:22:CC:9D:CD:60:27:67:1C:81:45:35:7D:C6:E8:F9:2B:E3:DA:AB:E2:01:5C:AF"]
+  }
+}]
