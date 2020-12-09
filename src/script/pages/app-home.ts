@@ -111,6 +111,20 @@ export class AppHome extends LitElement {
               </li>
 
               <li>
+                <fast-anchor href="https://twatest-123.web.app/logout" appearance="hypertext">Logout</fast-anchor>
+              </li>
+
+
+              <li>
+                <fast-anchor href="app://twatest.web.app/logout" appearance="hypertext">Logout1</fast-anchor>
+              </li>
+
+
+              <li>
+                <fast-anchor href="app://twatest.web.app" appearance="hypertext">Logout2</fast-anchor>
+              </li>
+
+              <li>
                 <fast-anchor href="https://lit-element.polymer-project.org/" appearance="hypertext">lit-element</fast-anchor>
               </li>
 
